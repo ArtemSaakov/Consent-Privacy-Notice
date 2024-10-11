@@ -1,1 +1,1 @@
-../consent-privacy-notice.md
+[Consent Privacy Notice](../consent-privacy-notice.md)
